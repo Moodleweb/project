@@ -1,0 +1,39 @@
+.contact2 {
+/*    background-color: #FFEBCD;*/
+    background-color: #800000;
+    color: white;
+    width: 42%;
+    margin-left: 10%;
+    margin-top: 5%;
+    padding: 1%;
+}
+
+.map {
+    background-color: darkseagreen;
+    float: right;
+    width:43%;
+    height: 500px;
+}
+
+#contactdetails {
+    width: 30%;
+    background-color: #800000;
+    color: white;
+    margin-left: 10%;
+    margin-top: 5%;
+    padding: 1%;    
+}
+
+body {
+    background-image: url("Musical-Notes-Black.gif");
+/*    background-image: url("music notes.jpg");*/
+}
+
+#contactname {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+th {
+    font-size: 13px;
+}
