@@ -1,7 +1,6 @@
 #Menu {
 	height:60px;
 	background-color:#800000;
-
 }
 #Menu ul {
 	margin:0;
@@ -24,6 +23,7 @@
 	text-decoration:none;
 	color:#FFF;
 }
+
 #Menu li:Hover {
 	Background-color:#000;
 }

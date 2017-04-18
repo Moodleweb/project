@@ -1,11 +1,10 @@
 #Container {
 	width:100%;
-	height:300%;
+	height:900px;
 	margin-left:auto;
 	margin-right:auto; 
-	margin-top:30%;
-	margin-bottom:0px;
-	
+	margin-top:20%;
+	margin-bottom:10%;
 		
 }
 body{
@@ -18,6 +17,7 @@ body{
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size:60px;
 	color: #FFF;
+
 }
 
 #header_container { 
@@ -25,6 +25,7 @@ body{
 	position:fixed; 
 	width:100%; 
 	top:0; 
+	z-index: 1;
 }
 
 #Banner {
@@ -35,7 +36,6 @@ body{
 #MainBody1 {
 	width:100%;
 	height:25%;
-	
 
 }
 	
@@ -49,7 +49,6 @@ body{
 	width:100%;
 	height:25%;
 
-	
 }
 
 
@@ -105,6 +104,13 @@ div#sixth{
 	clear:both;
 }
 
+#footer_container { 
+	left:0; 
+	position:fixed; 
+	width:100%; 
+	bottom:0; 
+}
+
 #Footer ul {
 	margin:0;
 	padding:0;
@@ -126,6 +132,3 @@ div#sixth{
 	text-decoration:none;
 	color:#FFF;
 }
-
-	
-
